@@ -1,9 +1,0 @@
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\bin\Release\ping_tray.exe.config
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\bin\Release\ping_tray.exe
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\bin\Release\ping_tray.pdb
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.Form1.resources
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.Properties.Resources.resources
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.csproj.GenerateResource.Cache
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.exe
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.pdb
-C:\Users\Igor\Desktop\programms\visual studio projects\ping_tray\ping_tray\obj\Release\ping_tray.csprojResolveAssemblyReference.cache
